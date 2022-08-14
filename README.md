@@ -1,4 +1,4 @@
-# Codes for Bachelor Thesis Project: Dog behavior detection using IMU and machine learning method**
+# Bachelor Thesis Project: Dog behavior detection using IMU and machine learning method
 ### class_to_num
 Convert categorical value to one-hot, and vice versa
 ### lpms32
