@@ -5,7 +5,7 @@ Convert categorical value to one-hot, and vice versa
 ### lpms32
 Connect to LPMS IMU sensor and convert 9 axis motion data into csv file
 ### read_csv
-Compute 36 features from IMU raw data in a csv file
+Compute 36 features from IMU data in csv file
 ### video_edit
 Display machine learning model prediction on the video according to data timestamp
 ### dnn.py
