@@ -90,7 +90,7 @@ MainWindow::MainWindow(QWidget *parent)
         putText(frame, classification[k].toStdString(), Point(0, 60), 2, 2, Scalar(0, 0, 255), 2);
         }
         //writer.write(frame);
-       imshow("fuck",frame);
+       imshow("dog",frame);
         char c = (char)waitKey(1000/150); //video fps(the value doesn't effect puttext, but effects how fast the video is played)
                     if (c == 27)
                         break;
