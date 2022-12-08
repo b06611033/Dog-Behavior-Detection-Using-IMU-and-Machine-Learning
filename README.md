@@ -7,6 +7,4 @@ Connect to LPMS IMU sensor and convert 9 axis motion data into csv file
 Compute 36 features from IMU data in csv file
 ### video_edit
 Display model predictions on the dog behavior videos according to timestamp
-### dnn.py
-Deep neural network model to classify dog behaviors
 
